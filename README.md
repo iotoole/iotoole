@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Ian O'Toole, Professor of Software Development
+
+- 🌱 I’m currently learning ... How to set up my GitHub README using Markdown!
