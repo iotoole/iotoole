@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Ian O'Toole, Professor of Software Development
+# Ian O'Toole - Professor, Software Development
 
-- 🌱 I’m currently learning ... How to set up my GitHub README using Markdown!
-
-Adding a sentence.
+- 🌱 I’m currently learning ...
+How to set up my GitHub README using Markdown!
